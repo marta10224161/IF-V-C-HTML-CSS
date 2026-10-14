@@ -3,7 +3,7 @@ Master the Building Blocks of the Web
 
 ---
 
-## 🚀 What is HTML?
+##  What is HTML?
 **HTML (HyperText Markup Language)** is the standard markup language for creating web pages. Think of it as the skeleton or foundation of every website you visit.
 
 > **Key Points:**
@@ -11,7 +11,7 @@ Master the Building Blocks of the Web
 > * **Markup:** A way to annotate text to show structure and meaning
 > * **Language:** A set of rules and syntax for creating web content
 
-### 🏗️ How HTML Works
+###  How HTML Works
 HTML uses **tags** to define elements. Tags are keywords surrounded by angle brackets like `<tagname>`. Most tags come in pairs:
 
 ```html
@@ -22,7 +22,7 @@ HTML uses **tags** to define elements. Tags are keywords surrounded by angle bra
 
 ---
 
-## 📋 Basic HTML Structure
+##  Basic HTML Structure
 Every HTML document follows this basic structure:
 
 ```html
@@ -48,7 +48,7 @@ Every HTML document follows this basic structure:
 
 ---
 
-## 🏷️ Essential HTML Tags
+##  Essential HTML Tags
 | Tag                    | Purpose                        | Example                                   |
 | :--------------------- | :----------------------------- | :---------------------------------------- |
 | `<h1>` - `<h6>`        | Headings (largest to smallest) | `<h1>Main Title</h1>`                     |
@@ -58,7 +58,7 @@ Every HTML document follows this basic structure:
 | `<div>`                | Container/section              | `<div>Content here</div>`                 |
 | `<ul>`, `<ol>`, `<li>` | Lists                          | `<ul><li>Item</li></ul>`                  |
 
-### 🎯 Live Examples:
+###  Live Examples:
 This is an H1 heading
 ## This is an H2 heading
 ### This is an H3 heading
@@ -78,7 +78,7 @@ Here's a [sample link](#).
 
 ---
 
-## 📝 HTML Forms
+##  HTML Forms
 Forms allow users to input data.
 
 ```html
@@ -105,7 +105,7 @@ Forms allow users to input data.
 
 ---
 
-## 🎨 HTML Attributes
+##  HTML Attributes
 Attributes provide additional information about HTML elements:
 
 ```html
@@ -125,7 +125,7 @@ Attributes provide additional information about HTML elements:
 
 ---
 
-## 📊 Tables in HTML
+##  Tables in HTML
 Tables organize data in rows and columns:
 
 ```html
@@ -156,7 +156,7 @@ Tables organize data in rows and columns:
 
 ---
 
-## 💻 Practice Exercises
+##  Practice Exercises
 ### Beginner Tasks:
 1.  Create a basic HTML page with a title, heading, and paragraph
 2.  Add an image with alt text
@@ -171,7 +171,7 @@ Tables organize data in rows and columns:
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 Here's how to organize your HTML project:
 
 ```
@@ -197,7 +197,7 @@ my-website/
 
 ---
 
-## 🎯 Next Steps in Your Learning Journey
+##  Next Steps in Your Learning Journey
 After mastering HTML, continue with:
 * **CSS (Cascading Style Sheets)** - Style your HTML elements
 * **JavaScript** - Add interactivity and dynamic behavior
@@ -207,7 +207,7 @@ After mastering HTML, continue with:
 
 ---
 
-## 🔧 Development Tools
+##  Development Tools
 ### Recommended Tools:
 * **Text Editors:** VS Code, Sublime Text, Atom
 * **Browsers:** Chrome DevTools, Firefox Developer Tools
@@ -216,5 +216,5 @@ After mastering HTML, continue with:
 
 ---
 
-## 🎉 Congratulations!
+##  Congratulations!
 You've completed the HTML Learning Project! You now understand the fundamentals of HTML and can create your own web pages. Keep practicing and building projects to strengthen your skills.
